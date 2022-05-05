@@ -70,7 +70,7 @@ export default {
 		web: [			
 			{
 				projectName: "mLabs Sites",
-				image: "images/findyourbank.png",
+				image: "images/mlabs.png",
 				summary:
 					"Developed and Managed all sites for the mLabs Ecosystem. (mLabs Social, DashGoo, Clube Social Media Exponencial, mLabs Pages",
 				preview: "https://www.mlabs.com.br",
@@ -80,7 +80,7 @@ export default {
 		software: [
 			{
 				projectName: "byPhisio Software",
-				image: "images/programmingdiaries.png",
+				image: "images/byphisio.png",
 				summary:
 					"Designed and developed the solution for a physiotherapy clinic and scaled the solution to a Product and later to a small company. Developed the first versions of the company software with Angluar.js 1.9 for Front-end and CakePHP for BackEnd. Redesigned and Developed the latest versions with ReactJS, Styled Components, NextJS in micro-frontend strategies. Redesigned the API's and Lambdas for the Project. Designed and Developed the company software with SOA architecture. Designed and Develop the API Gateway for the Product and all Infrastructure at AWS",
 				preview: "https://www.byphisio.com.br/",
@@ -191,7 +191,7 @@ export default {
 			data: [
 				{
 					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+					link: "https://stackoverflow.com/users/1478632/ricardoerib",
 				},
 				{
 					text: "GitHub",
