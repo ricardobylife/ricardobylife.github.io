@@ -694,7 +694,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .project-card {
-	height: 150px;
+	min-height: 150px;
 }
 
 .project-info {

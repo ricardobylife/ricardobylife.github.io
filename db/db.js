@@ -67,7 +67,17 @@ export default {
 		},		
 	],
 	projects: {
-		web: [
+		web: [			
+			{
+				projectName: "mLabs Sites",
+				image: "images/findyourbank.png",
+				summary:
+					"Developed and Managed all sites for the mLabs Ecosystem. (mLabs Social, DashGoo, Clube Social Media Exponencial, mLabs Pages",
+				preview: "https://www.mlabs.com.br",
+				techStack: ["Reactjs", "NextJS", "JavaScript", "Vercel", "AWS", "Docker", "Kubernets", "MySQL", "WordPress", "Strapi"],
+			},
+		],
+		software: [
 			{
 				projectName: "byPhisio Software",
 				image: "images/programmingdiaries.png",
@@ -84,15 +94,7 @@ export default {
 					"AWS",
 				],
 			},
-			{
-				projectName: "mLabs Sites",
-				image: "images/findyourbank.png",
-				summary:
-					"Developed and Managed all sites for the mLabs Ecosystem. (mLabs Social, DashGoo, Clube Social Media Exponencial, mLabs Pages",
-				preview: "https://www.mlabs.com.br",
-				techStack: ["Reactjs", "NextJS", "JavaScript", "Vercel", "AWS", "Docker", "Kubernets", "MySQL", "WordPress", "Strapi"],
-			},
-		],
+		]
 	},
 	experience: [
 		{
